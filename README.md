@@ -9,13 +9,13 @@ Este repositório contém a entrega do desafio prático da trilha de testes e qu
 Os documentos exigidos foram gerados e exportados do Confluence:
 
 - 🔁 **Plano de fluxo de trabalho + ciclo de vida de bug**  
-  Arquivo: `./docs/DQS-Fluxo de Trabalho e Ciclo de Vida do Bug.pdf`
+  Arquivo: `docs/DQS-Fluxo de Trabalho e Ciclo de Vida do Bug.pdf`
 
 - 👤 **User Stories criadas (mínimo de 2)**  
-  Arquivo: `./docs/DQS-User Stories do Projeto.pdf`
+  Arquivo: `docs/DQS-User Stories do Projeto.pdf`
 
 - ✅ **Casos de teste**  
-  Arquivo: `./docs/DQS-Documentação de Testes.pdf`, contendo:
+  Arquivo: `docs/DQS-Documentação de Testes.pdf`, contendo:
   - Mind-map de 1 User Story
   - 2 testes usando técnica **step-by-step**
   - 2 testes utilizando **BDD (Gherkin)**
